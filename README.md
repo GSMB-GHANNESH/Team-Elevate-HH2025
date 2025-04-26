@@ -66,11 +66,17 @@ Many senior citizens struggle with loneliness and memory challenges. Traditional
 ## ✨ Key Features
 
 ✅ Event Finder Page: Helps seniors discover local events and activities, promoting community engagement and reducing loneliness.
+
 ✅ Smart Daily Companion: Customizable daily checklists and smart medication reminders to support healthy routines.
+
 ✅ Community Page: Enables group chats, clubs, and private messaging for social connection.
+
 ✅ Friendly Multilingual Chatbot: A supportive AI chatbot that understands multiple languages, assisting seniors easily.
+
 ✅ Daily Journaling: A secure personal space for users to reflect, write, and preserve their memories.
+
 ✅ Voice-Assisted, Emotionally Intelligent Interaction: Using Groq technology for voice commands, sentiment analysis, and multilingual support.
+
 ✅ On-Chain Journaling: Securely storing life reflections on blockchain via Base OnchainKit
 
 Add images, GIFs, or screenshots if helpful!
