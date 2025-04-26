@@ -1,80 +1,8 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
 ![github-submission-banner](https://github.com/user-attachments/assets/a1493b84-e4e2-456e-a791-ce35ee2bcf2f)
 
 # 🚀 Project Title
 
-> A one-line tagline or mission statement for your project.
+> Building a world where no senior feels alone
 
 ---
 
@@ -89,57 +17,61 @@ Select the problem statement number and title from the official list given in Pa
 
 ## 🎯 Objective
 
-What problem does your project solve, and who does it serve?  
-Briefly describe the real-world use case and the value it provides.
-
+Many senior citizens struggle with loneliness and memory challenges. Traditional apps and services often lack the accessibility, simplicity, and personal care that elderly users need.ElderHub is designed for senior citizens around the world, especially those who need support with social connection and digital accessibility.Imagine an elderly person living alone who needs remember to take their medication, or find social events nearby — all without struggling with complex apps. ElderHub provides an easy-to-use platform.
 ---
 
 ## 🧠 Team & Approach
 
 ### Team Name:  
-ELEVATE
+`ELEVATE`
 
 ### Team Members:  
-- SHASHWAT (GitHub / LinkedIn / Role)  
-- GANESH
-- SRISHTI
-- MEHULI  
+- SHASHWAT MISHRA (GitHub / LinkedIn / Role)  
+- SRISHTI PANDEY
+- MEHULI SARKAR
+- GANESH SAI MANIDEEP BANDARU
 *(Add links if you want)*
 
 ### Your Approach:  
-- Why you chose this problem  
-- Key challenges you addressed  
-- Any pivots, brainstorms, or breakthroughs during hacking  
-
+- Seniors face isolation, healthcare access barriers, and difficulty using technology.
+- Most apps are not designed with seniors' cognitive, physical, and emotional needs in mind.
+- We wanted to bridge technology and compassion to empower seniors to live more independently and joyfully.
+- Accessibility: Designing voice-assisted, multilingual, and ultra-simple user flows.
+- Social Connection: Creating a community platform to reduce loneliness and encourage engagement.
+- Pivot: Expanded from just telehealth to a full community-driven support system after early brainstorming.
+- Challenge Overcome: Balanced a feature-rich app with ultra-simplified UX for elderly usability.
 ---
 
 ## 🛠️ Tech Stack
 
 ### Core Technologies Used:
-- Frontend:
-- Backend:
-- Database:
-- APIs:
+- Frontend: React.js, HTML, CSS, JavaScript, TypeScript, Figma
+- Backend: Django(python), python
+- Database: PostgreSQL
+- APIs: Fluvio: For real-time dashboard updates and notifications.
+- OnChain: For securely sharing journals, life experiences, and memories on the blockchain.
+- Groq: AI-powered chatbot 
+  
 - Hosting:
 
 ### Sponsor Technologies Used (if any):
-- [x] **Groq:** _How you used Groq_  
+- [✅] **Groq:** _How you used Groq_  
 - [ ] **Monad:** _Your blockchain implementation_  
-- [ ] **Fluvio:** _Real-time data handling_  
-- [x] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
-- [x] **Screenpipe:** _Screen-based analytics or workflows_  
-- [ ] **Stellar:** _Payments, identity, or token usage_
-*(Mark with ✅ if completed)*
+- [✅] **Fluvio:** _Real-time data handling_  
+- [✅] **Base:** _AgentKit / OnchainKit / Smart Wallet usage_  
+- [ ] **Screenpipe:** _Screen-based analytics or workflows_  
+- [ ] **Stellar:** _Payments, identity, or token usage
 ---
 
 ## ✨ Key Features
 
-Highlight the most important features of your project:
-
-- ✅ Feature 1  
-- ✅ Feature 2  
-- ✅ Feature 3  
-- ✅ Feature 4  
+✅ Event Finder Page: Helps seniors discover local events and activities, promoting community engagement and reducing loneliness.
+✅ Smart Daily Companion: Customizable daily checklists and smart medication reminders to support healthy routines.
+✅ Community Page: Enables group chats, clubs, and private messaging for social connection.
+✅ Friendly Multilingual Chatbot: A supportive AI chatbot that understands multiple languages, assisting seniors easily.
+✅ Daily Journaling: A secure personal space for users to reflect, write, and preserve their memories.
+✅ Voice-Assisted, Emotionally Intelligent Interaction: Using Groq technology for voice commands, sentiment analysis, and multilingual support.
+✅ On-Chain Journaling: Securely storing life reflections on blockchain via Base OnchainKit
 
 Add images, GIFs, or screenshots if helpful!
 
@@ -154,12 +86,9 @@ Add images, GIFs, or screenshots if helpful!
 
 ## ✅ Tasks & Bonus Checklist
 
-- [ ] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
-- [ ] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
-- [ ] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
-
-*(Mark with ✅ if completed)*
-
+- [✅] **All members of the team completed the mandatory task - Followed at least 2 of our social channels and filled the form** (Details in Participant Manual)  
+- [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
+- [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 ---
 
 ## 🧪 How to Run the Project
@@ -185,15 +114,12 @@ npm run dev
 Provide any backend/frontend split or environment setup notes here.
 
 ---
-
-## 🧬 Future Scope
-
-List improvements, extensions, or follow-up features:
-
-- 📈 More integrations  
-- 🛡️ Security enhancements  
-- 🌐 Localization / broader accessibility  
-
+- Mood Tracking & Mental Health Support
+- Real-Time Language Translation
+- Panic Button & Fall Detection
+- Transparent Payment System
+- Emergency Response Integration
+- Mobile and Smart Home Integration 
 ---
 
 ## 📎 Resources / Credits
@@ -209,4 +135,3 @@ List improvements, extensions, or follow-up features:
 Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
 
 ---
->>>>>>> eb377e442de4c12be67bee41fcdc59fbdcd3d7b3
