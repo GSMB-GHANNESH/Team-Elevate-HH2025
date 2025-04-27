@@ -6,12 +6,7 @@
 
 ---
 
-## 📌 Problem Statement
-
-Select the problem statement number and title from the official list given in Participant Manual.
-
-**Example:**  
-**Problem Statement 7 – Transform the Future of Rural Commerce**
+Problem Statement 1 : Building a creative application powered by Groq, Base, Fluvio, leveraging its capabilities to solve real-world problem with focus on elders.
 
 ---
 
@@ -26,11 +21,10 @@ Many senior citizens struggle with loneliness and memory challenges. Traditional
 `ELEVATE`
 
 ### Team Members:  
-- SHASHWAT MISHRA (GitHub / LinkedIn / Role)  
-- SRISHTI PANDEY
-- MEHULI SARKAR
-- GANESH SAI MANIDEEP BANDARU
-*(Add links if you want)*
+- SHASHWAT MISHRA ( Team Lead , Backend Developer, Fluvio Integration  )
+- SRISHTI PANDEY ( UI/UX Designer , Frontend Developer , Pitch Presenter, Groq Integration )
+- MEHULI SARKAR ( Frontend Developer , UI/UX Designer )
+- GANESH SAI MANIDEEP BANDARU ( Base Integration  ) 
 
 ### Your Approach:  
 - Seniors face isolation, healthcare access barriers, and difficulty using technology.
@@ -79,14 +73,12 @@ Many senior citizens struggle with loneliness and memory challenges. Traditional
 
 ✅ On-Chain Journaling: Securely storing life reflections on blockchain via Base OnchainKit
 
-Add images, GIFs, or screenshots if helpful!
-
 ---
 
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link:** [Paste YouTube or Loom link here]  
-- **Pitch Deck / PPT Link:** [Paste Google Slides / PDF link here]  
+- **Pitch Deck / PPT Link:** : https://www.canva.com/design/DAGlAPSqDlI/IzAExcgkU94qs92_ajZgyQ/edit?utm_content=DAGlAPSqDlI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
 
 ---
 
@@ -96,26 +88,6 @@ Add images, GIFs, or screenshots if helpful!
 - [✅] **All members of the team completed Bonus Task 1 - Sharing of Badges and filled the form (2 points)**  (Details in Participant Manual)
 - [✅] **All members of the team completed Bonus Task 2 - Signing up for Sprint.dev and filled the form (3 points)**  (Details in Participant Manual)
 ---
-
-## 🧪 How to Run the Project
-
-### Requirements:
-- Node.js / Python / Docker / etc.
-- API Keys (if any)
-- .env file setup (if needed)
-
-### Local Setup:
-```bash
-# Clone the repo
-git clone https://github.com/your-team/project-name
-
-# Install dependencies
-cd project-name
-npm install
-
-# Start development server
-npm run dev
-```
 
 Provide any backend/frontend split or environment setup notes here.
 
@@ -127,17 +99,10 @@ Provide any backend/frontend split or environment setup notes here.
 - Emergency Response Integration
 - Mobile and Smart Home Integration 
 ---
-
-## 📎 Resources / Credits
-
-- APIs or datasets used  
-- Open source libraries or tools referenced  
-- Acknowledgements  
-
 ---
 
 ## 🏁 Final Words
 
-Share your hackathon journey — challenges, learnings, fun moments, or shout-outs!
+This hackathon journey wasn't just about building projects — it was about building ourselves. Through every challenge, every late-night brainstorm, and every line of messy code, we grew stronger, braver, and more creative. We turned ideas into reality, strangers into teammates, and dreams into something we could touch. No matter the outcome, the real win was the passion, perseverance, and friendships we discovered along the way. This is just the beginning — and the future we imagine, we are ready to build it.
 
 ---
